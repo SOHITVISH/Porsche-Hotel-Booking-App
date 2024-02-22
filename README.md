@@ -39,4 +39,4 @@ A big shoutout to all the libraries, plugins, and assets that made this project 
 
 ---
 
-Crafted with ❤️ by [Hamed Hasan](https://github.com/Hamed-Hasan). Connect with me on [LinkedIn](https://www.linkedin.com/in/hamed-hasan).
+Crafted with ❤️ by [Sohit Vishwakarma](https://github.com/SOHITVISH)
