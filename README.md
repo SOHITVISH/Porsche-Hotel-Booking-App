@@ -1,7 +1,6 @@
 # Online Booking NextJs Template: Chisfis
 # Live : ![https://porsche-hotel-booking-app.vercel.app/]
 
-Welcome to **Chisfis**, a responsive Nextjs template theme tailored for Online booking, Listing, Real Estate, and booking systems. Whether you're running an accommodation service, travel experience, cruise, car rental, real estate, or a travel agency, Chisfis has got you covered.
 
 ![Chisfis Banner](https://i.ibb.co/JqPfydC/b-landing.png) 
 
@@ -18,25 +17,6 @@ Welcome to **Chisfis**, a responsive Nextjs template theme tailored for Online b
 - **Interactive Components**: Over 8 listing cards, modal gallery, checkout pages, and more.
 - **Built-in React Packages**: A collection of essential packages for a smooth development experience.
 
-## 📦 In The Box
-
-- Full source code of the theme.
-- All React component files.
-- CSS & SCSS source codes.
-- All plugins & libraries.
-- Comprehensive documentation.
-
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Navigate to the `app` directory.
-3. Install dependencies using `npm install` or `yarn install`.
-4. Run the development server using `npm run dev` or `yarn dev`.
-5. Explore the documentation for more details.
-
-## 🙏 Acknowledgements
-
-A big shoutout to all the libraries, plugins, and assets that made this project possible.
 
 ---
 
